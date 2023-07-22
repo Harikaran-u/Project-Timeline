@@ -1,0 +1,41 @@
+.project-card-cont {
+  padding: 10px;
+}
+.title-and-duration-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.project-img {
+  width: 70%;
+}
+.project-duration-cont {
+  display: flex;
+  align-items: center;
+}
+.projects-hour {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  color: #171f46;
+  margin-left: 6px;
+}
+.project-title {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  color: #2b237c;
+}
+.project-description {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 500;
+  color: #1e293b;
+}
+.project-links {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 600;
+  color: #0967d2;
+  border-bottom-color: transparent;
+}
